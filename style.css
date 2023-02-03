@@ -96,3 +96,9 @@ body {
   color: #ffffff;
   border: 2px solid f7f7f7;
 }
+.projetos-js {
+  align-items: end;
+  justify-content: flex-end;
+  height: 160px;
+  cursor: pointer;
+}
