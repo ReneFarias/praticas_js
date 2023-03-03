@@ -42,7 +42,7 @@ body {
 }
 
 .tema button {
-  aling-self: flex-end;
+  align-self: flex-end;
   font-size: 24px;
   font-weight: 400px;
   padding: 8px 16px;
@@ -101,4 +101,8 @@ body {
   justify-content: flex-end;
   height: 160px;
   cursor: pointer;
+}
+
+.projetos-item h2 {
+  color: red;
 }
